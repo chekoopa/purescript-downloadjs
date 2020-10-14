@@ -9,4 +9,6 @@
   ]
 , packages = ./packages.dhall
 , sources = [ "src/**/*.purs" ]
+, license = "MIT"
+, repository = "https://github.com/chekoopa/purescript-downloadjs"
 }

@@ -1,4 +1,6 @@
-# purescript-downloadjs [![Build Status](https://travis-ci.com/chekoopa/purescript-downloadjs.svg?branch=master)](https://travis-ci.com/chekoopa/purescript-downloadjs)
+# purescript-downloadjs 
+[![Build Status](https://travis-ci.com/chekoopa/purescript-downloadjs.svg?branch=master)](https://travis-ci.com/chekoopa/purescript-downloadjs) 
+[![Documetation on Pursuit](https://pursuit.purescript.org/packages/purescript-downloadjs/badge)](https://pursuit.purescript.org/packages/purescript-downloadjs)
 
 A library which binds [download.js](https://github.com/rndme/download) function to PureScript, 
 so you can download your data from an HTML5 browser in a type-safe way.
