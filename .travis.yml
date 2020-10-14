@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - 13
+cache: yarn
+install:
+  - npm install -g purescript@0.13.8 spago
+script:
+  - yarn install
+  - yarn run build-examples
